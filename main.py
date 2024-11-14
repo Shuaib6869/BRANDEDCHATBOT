@@ -131,13 +131,13 @@ async def restart(client, m: Message):
         accha = await m.reply_text(
                         text = f"{g}")
         await asyncio.sleep(1)
-        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @LEGENDGROUP11 , @PIHUCHATTINGROBOT , @LEGENDGROUP11 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @LEGEND_HU_BSDK ❤️")
+        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @FRIENDS_CHATTING_ZONE_II , @LEGENDMUSIC_1_BOT , @FRIENDS_CHATTING_ZONE_II 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @LEGEND_HU_BSDK ❤️")
         await asyncio.sleep(0.5)
-        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @LEGENDGROUP11 , @PIHUCHATTINGROBOT , @LEGENDGROUP11 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @LEGEND_HU_BSDK ❤️")
+        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @FRIENDS_CHATTING_ZONE_II , @LEGENDMUSIC_1_BOT , @FRIENDS_CHATTING_ZONE_II 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @LEGEND_HU_BSDK ❤️")
         await asyncio.sleep(0.5)
-        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @LEGENDGROUP11 , @PIHUCHATTINGROBOT , @LEGENDGROUP11 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @LEGEND_HU_BSDK ❤️")
+        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @FRIENDS_CHATTING_ZONE_II , @PIHUCHATTINGROBOT , @FRIENDS_CHATTING_ZONE_II 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @LEGEND_HU_BSDK ❤️")
         await asyncio.sleep(0.5)
-        await accha.delete("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @LEGENDGROUP11 , @PIHUCHATTINGROBOT , @LEGENDGROUP11 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @LEGEND_HU_BSDK ❤️")
+        await accha.delete("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @FRIENDS_CHATTING_ZONE_II , @PIHUCHATTINGROBOT , @FRIENDS_CHATTING_ZONE_II 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @LEGEND_HU_BSDK ❤️")
         umm = await m.reply_sticker(
                   sticker = STKR,
         )
